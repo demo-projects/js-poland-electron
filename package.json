@@ -48,7 +48,7 @@
   "dependencies": {
     "electron-compile": "^6.4.4",
     "electron-squirrel-startup": "^1.0.0",
-    "knex": "^0.20.2",
+    "knex": "^2.4.0",
     "menubar": "^7.0.0",
     "mini.css": "^3.0.1",
     "react": "^16.8.3",
